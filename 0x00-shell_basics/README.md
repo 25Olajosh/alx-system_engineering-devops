@@ -30,4 +30,5 @@ Create a script that creates the directories welcome/, welcome/to/ and welcome/t
 
 
 You are only allowed to use two spaces (and lines) in your script, not more.
+ command that lists all the files and directories of the current directory, separated by commas (,).
 
